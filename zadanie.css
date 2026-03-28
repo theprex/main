@@ -1,0 +1,15 @@
+#parent {
+    width: 370px;
+    border: 2px dotted purple;
+}
+#child {
+    height: 300px;
+    border: 2px dotted green;
+    margin: 40px;
+}
+#child2 {
+    border: 2px solid red ;
+    width: 250px;
+    height: 260px;
+    margin: 17px;
+}
