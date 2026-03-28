@@ -1,0 +1,21 @@
+#elem {
+    border-width: 5px;
+    border-style: solid;
+    border-color:blue;
+    width: 250px;
+    height: 170px;
+}
+#elem2 {
+    border-width: 5px;
+    border-style: dotted;
+    border-color: red;
+    width: 250px;
+    height: 170px;
+}
+#elem3 {
+    border-width: 5px;
+    border-style: double;
+    border-color: blue;
+    width: 250px;
+    height: 170px;
+}
