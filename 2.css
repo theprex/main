@@ -1,0 +1,25 @@
+.container {
+    position: relative;
+    width: 100px;
+    height: 50px;
+}
+.block  {
+    width: 30px; 
+    height: 30px;
+    position: absolute;
+}
+.red {
+    left: 0px;
+    top: 10px;
+    border: 1px solid red;
+}
+.blue {
+    left: 35px;
+    top:10px;
+    border:  1px solid blue;
+}
+.green {
+    top: 10px;
+    left: 70px;
+    border: 1px solid green;
+}
