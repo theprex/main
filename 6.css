@@ -1,0 +1,14 @@
+.parent {
+    display: flex;
+    border: 1px solid red;
+    align-items: center;
+    height: 350px;
+
+}
+
+.child {
+    border: 1px solid green;
+    height: 349px;
+    width: 200px;
+    line-height: 100px;
+}

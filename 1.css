@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    border: 1px solid red;
+    padding: 100px;
+    width: 400px;
+
+}
+
+.box {
+    width: 60px;
+    height: 30px;
+    margin: -1px;
+    border: 1px solid green;
+    line-height: 30px;
+}
